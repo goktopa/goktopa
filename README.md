@@ -3,8 +3,7 @@
 </div>
  I'm JavaScript Interested
  I’m scripting QA Automation epics, wielding JavaScript and TypeScript to craft flawless digital realms.
- I’m rising as a QA Automation Engineer, conquering tools like Selenium.
- I’m ready to collaborate—any project where I can grow and slay bugs!   
+ I’m ready to collaborate—any project where I can grow!  
  Skills & Certifications
 My Tech Stack
 <div align="center">
