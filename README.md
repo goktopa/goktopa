@@ -1,6 +1,6 @@
 <!-- Animated header using SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C1C3&center=true&vCenter=true&width=435&lines=Hi+I'm+Dimitar+Atanasov!;Aspiring+QA+Expert+%F0%9F%94%A5;JavaScript+Testing+Enthusiast" alt="Animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C1C3&center=true&vCenter=true&width=435&lines=Hi+I'm+Dimitar+Atanasov!;Aspiring+QA+Expert+%F0%9F%94%A5;JS+Testing+Enthusiast" alt="Animated header" />
 </p>
 
 ---
