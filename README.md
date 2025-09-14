@@ -1,41 +1,57 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Goktopa&fontSize=60&fontColor=FF79C6&animation=fadeIn&desc=Master%20of%20Bug-Free%20Code&descAlignY=70&descAlign=50" alt="Cinematic Capsule" />
-</div>
- I'm JavaScript Interested
- I’m scripting QA Automation epics, wielding JavaScript and TypeScript to craft flawless digital realms.
- I’m ready to collaborate—any project where I can grow!  
- Skills & Certifications
-My Tech Stack
-<div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" style="border-radius:50%;" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" style="border-radius:50%;" /></a>
-  <a href="https://www.selenium.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="80" height="80" style="border-radius:50%;" /></a>
- 
-</div>
+<!-- Animated header using SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=22C1C3&center=true&vCenter=true&width=435&lines=Hi+I'm+Dimitar+Atanasov!;Aspiring+QA+Expert+%F0%9F%94%A5;JavaScript+Testing+Enthusiast" alt="Animated header" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Certified-FF6F61?style=plastic&logo=check-circle&logoColor=FFF&labelColor=1E1E2E" alt="Certified" />
-</div>
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&labelColor=1E1E2E&color=1E1E2E&logo=javascript" alt="JavaScript Cert" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&labelColor=1E1E2E&color=1E1E2E&logo=html5" alt="HTML Cert" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=plastic&labelColor=1E1E2E&color=1E1E2E&logo=css3" alt="CSS Cert" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Manual_QA-663399?style=plastic&labelColor=1E1E2E&color=1E1E2E&logo=jest" alt="Manual QA Cert" /></a>
-</div>
+---
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Learning-QA_Epic-FFD700?style=plastic&logo=book&logoColor=000&labelColor=1E1E2E" alt="Learning" />
-</div>
+## 🚀 About Me
 
+- 🎓 **Student JavaScript Advance at [SoftUni](https://softuni.bg/)**
+- 🧑‍💻 **Student at Pragmatic QA Complete Course**
+- 🧪 **JavaScript Testing** is my top skill
+- 🏆 **Mission:** I want to become one of the best QA professionals ever!
 
-<div align="center">
-  <a href="dimitar.georgiev.atanasov@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="50" height="50" style="border-radius:50%;" /></a>
-  <a href="https://www.facebook.com/g0ktopa)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50" style="border-radius:50%;" /></a>
-</div>
-<div align="center">
+---
 
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Code_The_Future-FF4081?style=plastic&logo=code&logoColor=FFF&labelColor=1E1E2E" alt="Code The Future" />
-</div>
+## 🛠️ Top Projects
 
+| Project                  | Description                              |
+|--------------------------|------------------------------------------|
+| [Advance](https://github.com/goktopa/Advance) | Advanced JavaScript exercises, learning journey |
+| [skills-copilot-codespaces-vscode](https://github.com/goktopa/skills-copilot-codespaces-vscode) | Codespaces and Copilot skills showcase        |
+| [Project](https://github.com/goktopa/Project) | Main coursework & experiments                |
+| [client](https://github.com/goktopa/client)   | Frontend client demo and sandbox             |
+| [DoctorVisitApp](https://github.com/goktopa/DoctorVisitApp) | Medical visit scheduling app                 |
+
+---
+
+## 🔬 Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-Testing-informational?style=flat-square&logo=javascript)
+![QA](https://img.shields.io/badge/QA-Automation-critical?style=flat-square&logo=testing-library)
+![SoftUni](https://img.shields.io/badge/SoftUni-Student-blue?style=flat-square)
+
+---
+
+## 🎣 Fun Facts
+
+- **Fishing:** The best way to relax after debugging!
+- **Teaching:** I enjoy helping others learn and grow.
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimitar%20Atanasov-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dimitar-atanasov-0aa735345)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goktopa&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<!-- Extra animated badge -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goktopa&theme=github_dark" alt="Profile Details Card" />
+</p>
